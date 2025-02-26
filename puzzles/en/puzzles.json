@@ -1,5 +1,4 @@
-{
-  "levels": [
+[
     {
       "level": 1,
       "text": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG NEAR THE RIVER AND THE GREEN TREE",
@@ -1700,5 +1699,4 @@
         "difficultyScore": 72.03
       }
     }
-  ]
-}
+]
