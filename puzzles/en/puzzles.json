@@ -1,14 +1,1704 @@
-[
+{
+  "levels": [
     {
-      "id": "en-1",
       "level": 1,
-      "text": "CRACK THE CODE AND REVEAL THE HIDDEN MESSAGE",
-      "language": "en"
+      "text": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG NEAR THE RIVER AND THE GREEN TREE",
+      "language": "en",
+      "metrics": {
+        "textLength": 62,
+        "wordCount": 16,
+        "uniqueLetters": 26,
+        "alphabetCoveragePercent": 100.0,
+        "commonLetterPercent": 46.77,
+        "letterDistributionEntropy": 89.59,
+        "patternUniqueness": 37.5,
+        "repeatedWordsFactor": 40,
+        "wordCountFactor": 68,
+        "difficultyScore": 68.98
+      }
     },
     {
-      "id": "en-2",
       "level": 2,
-      "text": "UNCOVER THE SECRET PHRASE ONE LETTER AT A TIME",
-      "language": "en"
+      "text": "A GREAT WAY TO LEARN SCIENCE IS TO EXPLORE NATURE AND OBSERVE HOW THINGS WORK",
+      "language": "en",
+      "metrics": {
+        "textLength": 63,
+        "wordCount": 15,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 53.97,
+        "letterDistributionEntropy": 91.35,
+        "patternUniqueness": 60.0,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 60,
+        "difficultyScore": 70.14
+      }
+    },
+    {
+      "level": 3,
+      "text": "THE SUN PROVIDES LIGHT AND HEAT TO THE EARTH MAKING LIFE POSSIBLE FOR ALL CREATURES",
+      "language": "en",
+      "metrics": {
+        "textLength": 69,
+        "wordCount": 15,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 49.28,
+        "letterDistributionEntropy": 92.88,
+        "patternUniqueness": 60.0,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 60,
+        "difficultyScore": 70.15
+      }
+    },
+    {
+      "level": 4,
+      "text": "HUMANS HAVE ALWAYS BEEN CURIOUS ABOUT THE STARS AND PLANETS IN THE NIGHT SKY ABOVE US",
+      "language": "en",
+      "metrics": {
+        "textLength": 70,
+        "wordCount": 16,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 48.57,
+        "letterDistributionEntropy": 91.19,
+        "patternUniqueness": 62.5,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 68,
+        "difficultyScore": 72.09
+      }
+    },
+    {
+      "level": 5,
+      "text": "DURING SPRING, MANY ANIMALS COME OUT OF HIBERNATION AND BEGIN TO EXPLORE THEIR SURROUNDINGS THIS",
+      "language": "en",
+      "metrics": {
+        "textLength": 81,
+        "wordCount": 15,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 51.85,
+        "letterDistributionEntropy": 93.09,
+        "patternUniqueness": 60.0,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 71.67
+      }
+    },
+    {
+      "level": 6,
+      "text": "ART INSPIRES CREATIVITY AND EXPRESSION, ALLOWING INDIVIDUALS TO SHARE THEIR UNIQUE PERSPECTIVES WITH OTHERS THIS",
+      "language": "en",
+      "metrics": {
+        "textLength": 97,
+        "wordCount": 15,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 51.55,
+        "letterDistributionEntropy": 90.99,
+        "patternUniqueness": 80.0,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 75.42
+      }
+    },
+    {
+      "level": 7,
+      "text": "THE DISCOVERY OF ELECTRICITY TRANSFORMED MODERN SOCIETY, CHANGING HOW WE LIVE AND INTERACT WITH THE WORLD",
+      "language": "en",
+      "metrics": {
+        "textLength": 89,
+        "wordCount": 16,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 50.56,
+        "letterDistributionEntropy": 95.37,
+        "patternUniqueness": 68.75,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 68,
+        "difficultyScore": 70.11
+      }
+    },
+    {
+      "level": 8,
+      "text": "PHILOSOPHY ASKS DEEP QUESTIONS ABOUT EXISTENCE, KNOWLEDGE, AND THE MEANING OF LIFE IN A COMPLEX WORLD",
+      "language": "en",
+      "metrics": {
+        "textLength": 84,
+        "wordCount": 16,
+        "uniqueLetters": 23,
+        "alphabetCoveragePercent": 88.46,
+        "commonLetterPercent": 50.0,
+        "letterDistributionEntropy": 92.45,
+        "patternUniqueness": 81.25,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 80.06
+      }
+    },
+    {
+      "level": 9,
+      "text": "FOSSILS PROVIDE VALUABLE INSIGHTS INTO THE PAST, HELPING SCIENTISTS UNDERSTAND HOW LIFE HAS EVOLVED OVER TIME",
+      "language": "en",
+      "metrics": {
+        "textLength": 93,
+        "wordCount": 16,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 49.46,
+        "letterDistributionEntropy": 92.04,
+        "patternUniqueness": 56.25,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 71.64
+      }
+    },
+    {
+      "level": 10,
+      "text": "THE STUDY OF LANGUAGE REVEALS MUCH ABOUT CULTURE AND HUMAN THOUGHT, SHOWING HOW WE CONNECT WITH EACH OTHER",
+      "language": "en",
+      "metrics": {
+        "textLength": 88,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 45.45,
+        "letterDistributionEntropy": 92.41,
+        "patternUniqueness": 55.56,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 72.16
+      }
+    },
+    {
+      "level": 11,
+      "text": "THE SUN SHINES BRIGHTLY OVER THE MOUNTAINS AND THE RIVERS FLOW WITH CLEAR WATER EVERYWHERE YOU LOOK.",
+      "language": "en",
+      "metrics": {
+        "textLength": 83,
+        "wordCount": 17,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 46.99,
+        "letterDistributionEntropy": 91.67,
+        "patternUniqueness": 52.94,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 66,
+        "difficultyScore": 68.47
+      }
+    },
+    {
+      "level": 12,
+      "text": "IN NATURE, THE TREES GROW TALL AND STRONG, PROVIDING SHELTER AND FOOD TO MANY ANIMALS IN THE FOREST.",
+      "language": "en",
+      "metrics": {
+        "textLength": 80,
+        "wordCount": 18,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 56.25,
+        "letterDistributionEntropy": 92.11,
+        "patternUniqueness": 55.56,
+        "repeatedWordsFactor": 40,
+        "wordCountFactor": 64,
+        "difficultyScore": 62.8
+      }
+    },
+    {
+      "level": 13,
+      "text": "THE EARTH ROTATES AROUND THE SUN ONCE EVERY YEAR, CREATING SEASONS THAT AFFECT ALL LIVING THINGS ON THE PLANET.",
+      "language": "en",
+      "metrics": {
+        "textLength": 91,
+        "wordCount": 19,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 58.24,
+        "letterDistributionEntropy": 91.63,
+        "patternUniqueness": 68.42,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 62,
+        "difficultyScore": 65.65
+      }
+    },
+    {
+      "level": 14,
+      "text": "HUMANS HAVE ALWAYS LOOKED TO THE STARS TO UNDERSTAND THE UNIVERSE AND OUR PLACE WITHIN ITS IMMENSE EXPANSE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 89,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 52.81,
+        "letterDistributionEntropy": 92.01,
+        "patternUniqueness": 72.22,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 64,
+        "difficultyScore": 69.96
+      }
+    },
+    {
+      "level": 15,
+      "text": "THE GREAT PYRAMIDS OF EGYPT WERE BUILT AS TOMBS FOR PHARAOHS, SHOWCASING THE ANCIENT CIVILIZATION'S INCREDIBLE ENGINEERING SKILLS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 110,
+        "wordCount": 19,
+        "uniqueLetters": 23,
+        "alphabetCoveragePercent": 88.46,
+        "commonLetterPercent": 50.0,
+        "letterDistributionEntropy": 91.8,
+        "patternUniqueness": 68.42,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 62,
+        "difficultyScore": 75.09
+      }
+    },
+    {
+      "level": 16,
+      "text": "LEONARDO DA VINCI WAS A POLYMATH WHO CONTRIBUTED TO ART, SCIENCE, AND INVENTION, INSPIRING GENERATIONS WITH HIS CREATIVITY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 102,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 59.8,
+        "letterDistributionEntropy": 91.25,
+        "patternUniqueness": 72.22,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 72.45
+      }
+    },
+    {
+      "level": 17,
+      "text": "PHILOSOPHY EXPLORES FUNDAMENTAL QUESTIONS ABOUT EXISTENCE, KNOWLEDGE, VALUES, REASONING AND THE MEANING OF LIFE IN VARIOUS CONTEXTS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 112,
+        "wordCount": 17,
+        "uniqueLetters": 24,
+        "alphabetCoveragePercent": 92.31,
+        "commonLetterPercent": 53.57,
+        "letterDistributionEntropy": 90.55,
+        "patternUniqueness": 88.24,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 81.51
+      }
+    },
+    {
+      "level": 18,
+      "text": "THE WATER CYCLE IS VITAL TO EARTH'S ECOSYSTEM, INVOLVING EVAPORATION, CONDENSATION, AND PRECIPITATION IN A CONTINUOUS CYCLE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 103,
+        "wordCount": 18,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 60.19,
+        "letterDistributionEntropy": 91.55,
+        "patternUniqueness": 61.11,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 69.04
+      }
+    },
+    {
+      "level": 19,
+      "text": "MACHINE LEARNING ENABLES COMPUTERS TO LEARN FROM DATA AND IMPROVE THEIR PERFORMANCE WITHOUT BEING EXPLICITLY PROGRAMMED FOR TASKS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 112,
+        "wordCount": 18,
+        "uniqueLetters": 23,
+        "alphabetCoveragePercent": 88.46,
+        "commonLetterPercent": 49.11,
+        "letterDistributionEntropy": 91.81,
+        "patternUniqueness": 77.78,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 79.24
+      }
+    },
+    {
+      "level": 20,
+      "text": "THE DISCOVERY OF PENICILLIN BY ALEXANDER FLEMING REVOLUTIONIZED MEDICINE, LEADING TO THE DEVELOPMENT OF ANTIBIOTICS TO FIGHT INFECTIONS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 117,
+        "wordCount": 18,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 57.26,
+        "letterDistributionEntropy": 90.16,
+        "patternUniqueness": 66.67,
+        "repeatedWordsFactor": 40,
+        "wordCountFactor": 64,
+        "difficultyScore": 67.99
+      }
+    },
+    {
+      "level": 21,
+      "text": "THE SUN IS A STAR THAT PROVIDES LIGHT AND HEAT TO OUR PLANET EARTH AND ALL ITS LIFE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 66,
+        "wordCount": 18,
+        "uniqueLetters": 16,
+        "alphabetCoveragePercent": 61.54,
+        "commonLetterPercent": 56.06,
+        "letterDistributionEntropy": 93.08,
+        "patternUniqueness": 50.0,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 62.41
+      }
+    },
+    {
+      "level": 22,
+      "text": "WATER IS ESSENTIAL FOR ALL LIVING ORGANISMS, AND IT COVERS ABOUT SEVENTY PERCENT OF EARTH'S SURFACE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 82,
+        "wordCount": 17,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 51.22,
+        "letterDistributionEntropy": 90.89,
+        "patternUniqueness": 70.59,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 75.04
+      }
+    },
+    {
+      "level": 23,
+      "text": "THE HUMAN BODY IS MADE UP OF CELLS, TISSUES, ORGANS, AND SYSTEMS WORKING TOGETHER TO FUNCTION.",
+      "language": "en",
+      "metrics": {
+        "textLength": 75,
+        "wordCount": 16,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 46.67,
+        "letterDistributionEntropy": 93.62,
+        "patternUniqueness": 68.75,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 76.09
+      }
+    },
+    {
+      "level": 24,
+      "text": "MANY SPECIES OF ANIMALS ADAPT TO THEIR ENVIRONMENT THROUGH NATURAL SELECTION AND EVOLUTION OVER TIME.",
+      "language": "en",
+      "metrics": {
+        "textLength": 86,
+        "wordCount": 15,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 59.3,
+        "letterDistributionEntropy": 92.76,
+        "patternUniqueness": 80.0,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 72.98
+      }
+    },
+    {
+      "level": 25,
+      "text": "THE ART OF WRITING HAS BEEN AROUND FOR THOUSANDS OF YEARS, HELPING HUMANS SHARE STORIES AND IDEAS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 80,
+        "wordCount": 17,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 50.0,
+        "letterDistributionEntropy": 91.7,
+        "patternUniqueness": 52.94,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 67.57
+      }
+    },
+    {
+      "level": 26,
+      "text": "PHILOSOPHY EXPLORES FUNDAMENTAL QUESTIONS ABOUT EXISTENCE, KNOWLEDGE, VALUES, AND THE NATURE OF REALITY IN DEEP WAYS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 98,
+        "wordCount": 16,
+        "uniqueLetters": 24,
+        "alphabetCoveragePercent": 92.31,
+        "commonLetterPercent": 51.02,
+        "letterDistributionEntropy": 90.73,
+        "patternUniqueness": 81.25,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 80.75
+      }
+    },
+    {
+      "level": 27,
+      "text": "ASTRONOMY IS THE STUDY OF CELESTIAL BODIES LIKE STARS, PLANETS, AND GALAXIES IN THE UNIVERSE AROUND US.",
+      "language": "en",
+      "metrics": {
+        "textLength": 84,
+        "wordCount": 17,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 51.19,
+        "letterDistributionEntropy": 89.6,
+        "patternUniqueness": 64.71,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 72.83
+      }
+    },
+    {
+      "level": 28,
+      "text": "THE SCIENCE OF ECOLOGY FOCUSES ON THE INTERACTIONS BETWEEN ORGANISMS AND THEIR ENVIRONMENT IN COMPLEX ECOSYSTEMS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 97,
+        "wordCount": 16,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 56.7,
+        "letterDistributionEntropy": 87.75,
+        "patternUniqueness": 75.0,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 68,
+        "difficultyScore": 73.61
+      }
+    },
+    {
+      "level": 29,
+      "text": "HUMANS HAVE LONG SOUGHT TO UNDERSTAND THE UNIVERSE, CREATING THEORIES AND MODELS TO EXPLAIN NATURAL PHENOMENA.",
+      "language": "en",
+      "metrics": {
+        "textLength": 93,
+        "wordCount": 16,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 54.84,
+        "letterDistributionEntropy": 93.64,
+        "patternUniqueness": 68.75,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 68,
+        "difficultyScore": 69.0
+      }
+    },
+    {
+      "level": 30,
+      "text": "INFORMATION TECHNOLOGY CONTINUES TO EVOLVE RAPIDLY, IMPACTING HOW WE COMMUNICATE, WORK, AND ACCESS INFORMATION GLOBALLY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 102,
+        "wordCount": 15,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 52.94,
+        "letterDistributionEntropy": 92.7,
+        "patternUniqueness": 80.0,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 77.7
+      }
+    },
+    {
+      "level": 31,
+      "text": "THE SUN IS A STAR THAT PROVIDES LIGHT AND ENERGY TO OUR PLANET, MAKING LIFE POSSIBLE AND SUSTAINABLE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 82,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 52.44,
+        "letterDistributionEntropy": 92.58,
+        "patternUniqueness": 61.11,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 69.9
+      }
+    },
+    {
+      "level": 32,
+      "text": "WATER IS ESSENTIAL FOR LIFE, AS IT SUPPORTS ALL LIVING ORGANISMS AND HELPS REGULATE EARTH'S CLIMATE SYSTEM.",
+      "language": "en",
+      "metrics": {
+        "textLength": 88,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 47.73,
+        "letterDistributionEntropy": 90.22,
+        "patternUniqueness": 72.22,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 74.71
+      }
+    },
+    {
+      "level": 33,
+      "text": "THE HUMAN BRAIN IS A COMPLEX ORGAN THAT CONTROLS THOUGHT, EMOTION, MEMORY, AND MANY OTHER FUNCTIONS IN OUR BODIES.",
+      "language": "en",
+      "metrics": {
+        "textLength": 92,
+        "wordCount": 19,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 54.35,
+        "letterDistributionEntropy": 92.41,
+        "patternUniqueness": 68.42,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 62,
+        "difficultyScore": 72.85
+      }
+    },
+    {
+      "level": 34,
+      "text": "ANCIENT CIVILIZATIONS USED STONE, CLAY, AND METAL TO CREATE TOOLS, ARTIFACTS, AND STRUCTURES THAT STILL INFLUENCE US TODAY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 101,
+        "wordCount": 18,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 56.44,
+        "letterDistributionEntropy": 91.26,
+        "patternUniqueness": 72.22,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 68.82
+      }
+    },
+    {
+      "level": 35,
+      "text": "PHOTOSYNTHESIS IS A PROCESS BY WHICH PLANTS CONVERT SUNLIGHT INTO ENERGY, ALLOWING THEM TO GROW AND THRIVE IN NATURE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 97,
+        "wordCount": 19,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 50.52,
+        "letterDistributionEntropy": 93.5,
+        "patternUniqueness": 63.16,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 62,
+        "difficultyScore": 72.73
+      }
+    },
+    {
+      "level": 36,
+      "text": "THE ART OF STORYTELLING HAS BEEN AROUND FOR THOUSANDS OF YEARS, CAPTURING CULTURES AND HISTORIES THROUGH ORAL TRADITION.",
+      "language": "en",
+      "metrics": {
+        "textLength": 101,
+        "wordCount": 18,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 49.5,
+        "letterDistributionEntropy": 93.85,
+        "patternUniqueness": 72.22,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 70.59
+      }
+    },
+    {
+      "level": 37,
+      "text": "IN THE FIELD OF ASTRONOMY, STARS ARE CLASSIFIED BASED ON THEIR SIZE, BRIGHTNESS, AND DISTANCE FROM OUR EARTHLY HOME.",
+      "language": "en",
+      "metrics": {
+        "textLength": 94,
+        "wordCount": 19,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 50.0,
+        "letterDistributionEntropy": 92.99,
+        "patternUniqueness": 52.63,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 62,
+        "difficultyScore": 69.5
+      }
+    },
+    {
+      "level": 38,
+      "text": "ECOLOGY STUDIES THE INTERACTIONS BETWEEN ORGANISMS AND THEIR ENVIRONMENT, HELPING US UNDERSTAND THE BALANCE OF NATURE AND BIODIVERSITY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 116,
+        "wordCount": 18,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 56.9,
+        "letterDistributionEntropy": 90.89,
+        "patternUniqueness": 77.78,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 64,
+        "difficultyScore": 71.24
+      }
+    },
+    {
+      "level": 39,
+      "text": "THE RENAISSANCE WAS A PERIOD OF GREAT CULTURAL CHANGE AND ACHIEVEMENT IN EUROPE, SPANNING ART, SCIENCE, AND PHILOSOPHY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 98,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 54.08,
+        "letterDistributionEntropy": 91.47,
+        "patternUniqueness": 66.67,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 70.51
+      }
+    },
+    {
+      "level": 40,
+      "text": "HUMANS HAVE ALWAYS SOUGHT TO UNDERSTAND THE UNIVERSE, LEADING TO IMPORTANT DISCOVERIES IN PHYSICS, CHEMISTRY, AND BIOLOGY OVER TIME.",
+      "language": "en",
+      "metrics": {
+        "textLength": 110,
+        "wordCount": 19,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 49.09,
+        "letterDistributionEntropy": 94.66,
+        "patternUniqueness": 68.42,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 62,
+        "difficultyScore": 72.24
+      }
+    },
+    {
+      "level": 41,
+      "text": "THE SUN RISES IN THE EAST AND SETS IN THE WEST, BRINGING LIGHT AND HEAT TO THE WORLD.",
+      "language": "en",
+      "metrics": {
+        "textLength": 66,
+        "wordCount": 18,
+        "uniqueLetters": 15,
+        "alphabetCoveragePercent": 57.69,
+        "commonLetterPercent": 57.58,
+        "letterDistributionEntropy": 92.53,
+        "patternUniqueness": 38.89,
+        "repeatedWordsFactor": 0,
+        "wordCountFactor": 64,
+        "difficultyScore": 50.65
+      }
+    },
+    {
+      "level": 42,
+      "text": "WATER IS ESSENTIAL FOR LIFE, AS IT HELPS TO REGULATE TEMPERATURE AND SUPPORTS ALL LIVING ORGANISMS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 82,
+        "wordCount": 16,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 50.0,
+        "letterDistributionEntropy": 92.15,
+        "patternUniqueness": 68.75,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 71.74
+      }
+    },
+    {
+      "level": 43,
+      "text": "HUMANS HAVE ALWAYS STRIVED TO UNDERSTAND THE UNIVERSE, AND SCIENCE HELPS US TO EXPLORE THIS MYSTERY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 83,
+        "wordCount": 16,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 45.78,
+        "letterDistributionEntropy": 93.59,
+        "patternUniqueness": 75.0,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 68,
+        "difficultyScore": 73.21
+      }
+    },
+    {
+      "level": 44,
+      "text": "THE HUMAN BRAIN IS A COMPLEX ORGAN, PROCESSING INFORMATION, CONTROLLING MOVEMENTS, AND CREATING EMOTIONS AND MEMORIES.",
+      "language": "en",
+      "metrics": {
+        "textLength": 99,
+        "wordCount": 16,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 56.57,
+        "letterDistributionEntropy": 90.6,
+        "patternUniqueness": 75.0,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 68,
+        "difficultyScore": 71.75
+      }
+    },
+    {
+      "level": 45,
+      "text": "ANCIENT CIVILIZATIONS, SUCH AS THE EGYPTIANS AND MAYANS, BUILT IMPRESSIVE STRUCTURES THAT STILL ASTOUND ARCHITECTS TODAY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 103,
+        "wordCount": 16,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 51.46,
+        "letterDistributionEntropy": 91.11,
+        "patternUniqueness": 87.5,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 77.35
+      }
+    },
+    {
+      "level": 46,
+      "text": "PHILOSOPHY ASKS DEEP QUESTIONS ABOUT EXISTENCE AND TRUTH, ENCOURAGING US TO THINK CRITICALLY ABOUT OUR BELIEFS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 94,
+        "wordCount": 16,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 48.94,
+        "letterDistributionEntropy": 93.71,
+        "patternUniqueness": 75.0,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 76.9
+      }
+    },
+    {
+      "level": 47,
+      "text": "NATURE IS FILLED WITH INTRIGUING PATTERNS AND CYCLES, REFLECTING THE BALANCE THAT EXISTS IN OUR ENVIRONMENT.",
+      "language": "en",
+      "metrics": {
+        "textLength": 91,
+        "wordCount": 16,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 56.04,
+        "letterDistributionEntropy": 89.28,
+        "patternUniqueness": 81.25,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 77.22
+      }
+    },
+    {
+      "level": 48,
+      "text": "ART HAS BEEN A MEANS OF EXPRESSION THROUGHOUT HISTORY, ALLOWING INDIVIDUALS TO SHARE THEIR THOUGHTS AND EMOTIONS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 95,
+        "wordCount": 17,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 52.63,
+        "letterDistributionEntropy": 90.69,
+        "patternUniqueness": 70.59,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 74.73
+      }
+    },
+    {
+      "level": 49,
+      "text": "THE STUDY OF HISTORY HELPS US UNDERSTAND PAST EVENTS, INFORMING OUR DECISIONS AND SHAPING OUR FUTURE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 84,
+        "wordCount": 16,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 45.24,
+        "letterDistributionEntropy": 93.36,
+        "patternUniqueness": 62.5,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 72.78
+      }
+    },
+    {
+      "level": 50,
+      "text": "IN MATHEMATICS, PATTERNS AND RELATIONSHIPS HELP US TO SOLVE COMPLEX PROBLEMS AND UNDERSTAND THE WORLD AROUND US.",
+      "language": "en",
+      "metrics": {
+        "textLength": 94,
+        "wordCount": 17,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 46.81,
+        "letterDistributionEntropy": 93.98,
+        "patternUniqueness": 64.71,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 70.9
+      }
+    },
+    {
+      "level": 51,
+      "text": "THE SUN IS A STAR THAT PROVIDES LIGHT AND HEAT TO THE EARTH AND ALL ITS CREATURES.",
+      "language": "en",
+      "metrics": {
+        "textLength": 65,
+        "wordCount": 17,
+        "uniqueLetters": 16,
+        "alphabetCoveragePercent": 61.54,
+        "commonLetterPercent": 55.38,
+        "letterDistributionEntropy": 90.89,
+        "patternUniqueness": 52.94,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 66,
+        "difficultyScore": 60.91
+      }
+    },
+    {
+      "level": 52,
+      "text": "WATER IS ESSENTIAL FOR LIFE AND IT COVERS SEVENTY PERCENT OF THE EARTH'S SURFACE, SUPPORTING EVERY ORGANISM.",
+      "language": "en",
+      "metrics": {
+        "textLength": 89,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 50.56,
+        "letterDistributionEntropy": 91.4,
+        "patternUniqueness": 72.22,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 74.32
+      }
+    },
+    {
+      "level": 53,
+      "text": "THE HUMAN BODY HAS MANY ORGANS THAT WORK TOGETHER TO MAINTAIN HEALTH AND SUPPORT DAILY FUNCTIONS AND ACTIVITIES.",
+      "language": "en",
+      "metrics": {
+        "textLength": 94,
+        "wordCount": 18,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 55.32,
+        "letterDistributionEntropy": 90.92,
+        "patternUniqueness": 66.67,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 72.49
+      }
+    },
+    {
+      "level": 54,
+      "text": "HISTORY TEACHES US VALUABLE LESSONS ABOUT PAST EVENTS AND DECISIONS THAT HAVE SHAPED OUR MODERN SOCIETY AND CULTURE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 98,
+        "wordCount": 18,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 48.98,
+        "letterDistributionEntropy": 93.92,
+        "patternUniqueness": 72.22,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 70.71
+      }
+    },
+    {
+      "level": 55,
+      "text": "ELECTRICITY FLOWS THROUGH CIRCUITS, POWERING DEVICES LIKE LIGHT BULBS AND COMPUTERS, WHICH ARE ESSENTIAL IN TODAY'S WORLD.",
+      "language": "en",
+      "metrics": {
+        "textLength": 102,
+        "wordCount": 18,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 42.16,
+        "letterDistributionEntropy": 93.32,
+        "patternUniqueness": 77.78,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 79.71
+      }
+    },
+    {
+      "level": 56,
+      "text": "PHOTOSYNTHESIS IS A PROCESS USED BY PLANTS TO CONVERT LIGHT ENERGY INTO CHEMICAL ENERGY FOR GROWTH AND SURVIVAL.",
+      "language": "en",
+      "metrics": {
+        "textLength": 94,
+        "wordCount": 18,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 45.74,
+        "letterDistributionEntropy": 93.86,
+        "patternUniqueness": 66.67,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 75.69
+      }
+    },
+    {
+      "level": 57,
+      "text": "THE UNIVERSE IS FILLED WITH STARS AND GALAXIES, EACH WITH ITS OWN UNIQUE CHARACTERISTICS AND MYSTERIES TO EXPLORE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 95,
+        "wordCount": 18,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 50.53,
+        "letterDistributionEntropy": 90.07,
+        "patternUniqueness": 61.11,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 64,
+        "difficultyScore": 70.21
+      }
+    },
+    {
+      "level": 58,
+      "text": "ANCIENT CIVILIZATIONS, SUCH AS THE GREEKS AND ROMANS, HAVE INFLUENCED MODERN GOVERNMENT, ART, AND PHILOSOPHY IN SIGNIFICANT WAYS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 107,
+        "wordCount": 18,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 53.27,
+        "letterDistributionEntropy": 91.93,
+        "patternUniqueness": 61.11,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 71.94
+      }
+    },
+    {
+      "level": 59,
+      "text": "ECOLOGY STUDIES THE INTERACTIONS BETWEEN ORGANISMS AND THEIR ENVIRONMENT, HELPING US UNDERSTAND THE BALANCE OF NATURE AND BIODIVERSITY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 116,
+        "wordCount": 18,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 56.9,
+        "letterDistributionEntropy": 90.89,
+        "patternUniqueness": 77.78,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 64,
+        "difficultyScore": 71.24
+      }
+    },
+    {
+      "level": 60,
+      "text": "LANGUAGE IS A POWERFUL TOOL FOR COMMUNICATION, ALLOWING HUMANS TO EXPRESS THOUGHTS, FEELINGS, AND IDEAS ACROSS CULTURES AND GENERATIONS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 114,
+        "wordCount": 19,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 49.12,
+        "letterDistributionEntropy": 94.52,
+        "patternUniqueness": 78.95,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 62,
+        "difficultyScore": 73.17
+      }
+    },
+    {
+      "level": 61,
+      "text": "THE SUN RISES IN THE EAST AND SETS IN THE WEST, SHINING LIGHT ON ALL CREATURES.",
+      "language": "en",
+      "metrics": {
+        "textLength": 62,
+        "wordCount": 16,
+        "uniqueLetters": 15,
+        "alphabetCoveragePercent": 57.69,
+        "commonLetterPercent": 56.45,
+        "letterDistributionEntropy": 90.75,
+        "patternUniqueness": 56.25,
+        "repeatedWordsFactor": 40,
+        "wordCountFactor": 68,
+        "difficultyScore": 58.28
+      }
+    },
+    {
+      "level": 62,
+      "text": "THE WATER CYCLE INVOLVES EVAPORATION, CONDENSATION, AND PRECIPITATION TO FORM CLOUDS AND RAIN. WE SHOULD",
+      "language": "en",
+      "metrics": {
+        "textLength": 87,
+        "wordCount": 15,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 56.32,
+        "letterDistributionEntropy": 93.39,
+        "patternUniqueness": 66.67,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 60,
+        "difficultyScore": 69.0
+      }
+    },
+    {
+      "level": 63,
+      "text": "HUMANS HAVE ALWAYS BEEN CURIOUS ABOUT THE STARS, AND WE STUDY THEM TO LEARN MORE ABOUT OUR UNIVERSE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 81,
+        "wordCount": 18,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 48.15,
+        "letterDistributionEntropy": 93.66,
+        "patternUniqueness": 55.56,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 64,
+        "difficultyScore": 69.5
+      }
+    },
+    {
+      "level": 64,
+      "text": "DID YOU KNOW THAT PLANTS USE SUNLIGHT TO MAKE FOOD THROUGH A PROCESS CALLED PHOTOSYNTHESIS EVERY DAY?",
+      "language": "en",
+      "metrics": {
+        "textLength": 84,
+        "wordCount": 17,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 44.05,
+        "letterDistributionEntropy": 93.75,
+        "patternUniqueness": 82.35,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 79.25
+      }
+    },
+    {
+      "level": 65,
+      "text": "TO UNDERSTAND HISTORY, ONE MUST STUDY THE PAST AND LEARN FROM THE MISTAKES MADE BY OUR ANCESTORS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 79,
+        "wordCount": 17,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 49.37,
+        "letterDistributionEntropy": 91.47,
+        "patternUniqueness": 47.06,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 66.48
+      }
+    },
+    {
+      "level": 66,
+      "text": "THE GREAT WALL OF CHINA WAS BUILT OVER MANY CENTURIES TO PROTECT AGAINST INVASIONS AND ENEMIES.",
+      "language": "en",
+      "metrics": {
+        "textLength": 79,
+        "wordCount": 16,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 58.23,
+        "letterDistributionEntropy": 91.26,
+        "patternUniqueness": 62.5,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 72.17
+      }
+    },
+    {
+      "level": 67,
+      "text": "THE STUDY OF ANIMALS IN THEIR NATURAL HABITATS TEACHES US ABOUT THEIR BEHAVIOR AND SURVIVAL STRATEGIES IN NATURE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 95,
+        "wordCount": 18,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 54.74,
+        "letterDistributionEntropy": 90.39,
+        "patternUniqueness": 55.56,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 66.84
+      }
+    },
+    {
+      "level": 68,
+      "text": "PHILOSOPHY ASKS FUNDAMENTAL QUESTIONS ABOUT EXISTENCE, KNOWLEDGE, VALUES, REASONING, AND THE MEANING OF LIFE ITSELF.",
+      "language": "en",
+      "metrics": {
+        "textLength": 97,
+        "wordCount": 15,
+        "uniqueLetters": 24,
+        "alphabetCoveragePercent": 92.31,
+        "commonLetterPercent": 52.58,
+        "letterDistributionEntropy": 89.88,
+        "patternUniqueness": 86.67,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 80.99
+      }
+    },
+    {
+      "level": 69,
+      "text": "THE OCEAN COVERS MORE THAN SEVENTY PERCENT OF EARTH'S SURFACE AND HOUSES A DIVERSE RANGE OF LIFE FORMS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 84,
+        "wordCount": 19,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 50.0,
+        "letterDistributionEntropy": 90.68,
+        "patternUniqueness": 57.89,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 62,
+        "difficultyScore": 68.2
+      }
+    },
+    {
+      "level": 70,
+      "text": "IN THE FIELD OF SCIENCE, HYPOTHESIS TESTING IS ESSENTIAL FOR UNDERSTANDING AND EXPLAINING NATURAL PHENOMENA IN THE WORLD.",
+      "language": "en",
+      "metrics": {
+        "textLength": 102,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 56.86,
+        "letterDistributionEntropy": 90.91,
+        "patternUniqueness": 61.11,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 64,
+        "difficultyScore": 66.76
+      }
+    },
+    {
+      "level": 71,
+      "text": "THE SUN IS A STAR AT THE CENTER OF OUR SOLAR SYSTEM AND PROVIDES LIGHT AND HEAT TO EARTH.",
+      "language": "en",
+      "metrics": {
+        "textLength": 70,
+        "wordCount": 19,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 54.29,
+        "letterDistributionEntropy": 90.11,
+        "patternUniqueness": 42.11,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 62,
+        "difficultyScore": 62.1
+      }
+    },
+    {
+      "level": 72,
+      "text": "EACH SEASON BRINGS CHANGES TO NATURE, SHOWING BEAUTIFUL COLORS AND TRANSFORMING THE ENVIRONMENT AROUND US.",
+      "language": "en",
+      "metrics": {
+        "textLength": 90,
+        "wordCount": 15,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 52.22,
+        "letterDistributionEntropy": 93.15,
+        "patternUniqueness": 66.67,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 71.78
+      }
+    },
+    {
+      "level": 73,
+      "text": "WATER IS ESSENTIAL FOR LIFE ON EARTH, SUPPORTING ALL LIVING ORGANISMS AND REGULATING CLIMATE FOR SURVIVAL.",
+      "language": "en",
+      "metrics": {
+        "textLength": 89,
+        "wordCount": 16,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 49.44,
+        "letterDistributionEntropy": 92.75,
+        "patternUniqueness": 75.0,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 68,
+        "difficultyScore": 72.35
+      }
+    },
+    {
+      "level": 74,
+      "text": "LEARNING ABOUT ANIMALS HELPS US UNDERSTAND THEIR ROLE IN ECOSYSTEMS, CONTRIBUTING TO A BALANCED ENVIRONMENT FOR ALL.",
+      "language": "en",
+      "metrics": {
+        "textLength": 98,
+        "wordCount": 17,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 54.08,
+        "letterDistributionEntropy": 92.13,
+        "patternUniqueness": 76.47,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 74.67
+      }
+    },
+    {
+      "level": 75,
+      "text": "PHYSICS EXPLORES THE FUNDAMENTAL LAWS OF NATURE, HELPING US UNDERSTAND MOTION, FORCE, ENERGY, AND THE UNIVERSE ITSELF.",
+      "language": "en",
+      "metrics": {
+        "textLength": 97,
+        "wordCount": 17,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 48.45,
+        "letterDistributionEntropy": 92.9,
+        "patternUniqueness": 76.47,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 75.07
+      }
+    },
+    {
+      "level": 76,
+      "text": "THE GREAT WALL OF CHINA IS A REMARKABLE STRUCTURE THAT SPANS OVER THOUSANDS OF MILES AND REPRESENTS HISTORY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 90,
+        "wordCount": 18,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 47.78,
+        "letterDistributionEntropy": 90.19,
+        "patternUniqueness": 72.22,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 75.0
+      }
+    },
+    {
+      "level": 77,
+      "text": "CULTURAL DIVERSITY ENRICHES SOCIETY BY INTRODUCING DIFFERENT PERSPECTIVES, TRADITIONS, AND BELIEFS THAT PROMOTE UNDERSTANDING AND RESPECT.",
+      "language": "en",
+      "metrics": {
+        "textLength": 120,
+        "wordCount": 16,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 50.83,
+        "letterDistributionEntropy": 92.4,
+        "patternUniqueness": 87.5,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 68,
+        "difficultyScore": 75.67
+      }
+    },
+    {
+      "level": 78,
+      "text": "THE HUMAN BRAIN IS AN INCREDIBLE ORGAN, CAPABLE OF COMPLEX THOUGHT, EMOTIONS, AND CREATIVITY IN EVERYDAY LIFE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 90,
+        "wordCount": 17,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 53.33,
+        "letterDistributionEntropy": 94.19,
+        "patternUniqueness": 64.71,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 73.93
+      }
+    },
+    {
+      "level": 79,
+      "text": "PHILOSOPHY ASKS DEEP QUESTIONS ABOUT EXISTENCE, KNOWLEDGE, AND ETHICS, ENCOURAGING US TO THINK CRITICALLY ABOUT LIFE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 98,
+        "wordCount": 16,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 50.0,
+        "letterDistributionEntropy": 93.05,
+        "patternUniqueness": 81.25,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 78.99
+      }
+    },
+    {
+      "level": 80,
+      "text": "SUSTAINABLE PRACTICES IN AGRICULTURE HELP PROTECT THE ENVIRONMENT WHILE ENSURING FOOD SECURITY AND HEALTH FOR FUTURE GENERATIONS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 112,
+        "wordCount": 17,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 51.79,
+        "letterDistributionEntropy": 91.35,
+        "patternUniqueness": 88.24,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 78.52
+      }
+    },
+    {
+      "level": 81,
+      "text": "THE SUN IS A STAR THAT PROVIDES LIGHT AND HEAT TO OUR PLANET EARTH EVERY SINGLE DAY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 67,
+        "wordCount": 17,
+        "uniqueLetters": 16,
+        "alphabetCoveragePercent": 61.54,
+        "commonLetterPercent": 53.73,
+        "letterDistributionEntropy": 95.08,
+        "patternUniqueness": 52.94,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 65.86
+      }
+    },
+    {
+      "level": 82,
+      "text": "WATER IS ESSENTIAL FOR LIFE, AND IT COVERS ABOUT SEVENTY PERCENT OF THE EARTH'S SURFACE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 71,
+        "wordCount": 16,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 53.52,
+        "letterDistributionEntropy": 90.91,
+        "patternUniqueness": 62.5,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 70.76
+      }
+    },
+    {
+      "level": 83,
+      "text": "PLANTS USE SUNLIGHT TO CREATE FOOD THROUGH A PROCESS CALLED PHOTOSYNTHESIS, WHICH IS VERY IMPORTANT.",
+      "language": "en",
+      "metrics": {
+        "textLength": 84,
+        "wordCount": 15,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 45.24,
+        "letterDistributionEntropy": 93.38,
+        "patternUniqueness": 93.33,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 79.7
+      }
+    },
+    {
+      "level": 84,
+      "text": "THE HUMAN BODY IS MADE UP OF ABOUT SIXTY PERCENT WATER, WHICH IS CRUCIAL FOR GOOD HEALTH.",
+      "language": "en",
+      "metrics": {
+        "textLength": 71,
+        "wordCount": 17,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 43.66,
+        "letterDistributionEntropy": 95.55,
+        "patternUniqueness": 52.94,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 71.72
+      }
+    },
+    {
+      "level": 85,
+      "text": "MANY ANIMALS ADAPT TO THEIR ENVIRONMENTS IN ORDER TO SURVIVE, SHOWING AMAZING TRICKS OF NATURE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 79,
+        "wordCount": 15,
+        "uniqueLetters": 22,
+        "alphabetCoveragePercent": 84.62,
+        "commonLetterPercent": 55.7,
+        "letterDistributionEntropy": 90.49,
+        "patternUniqueness": 73.33,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 60,
+        "difficultyScore": 73.49
+      }
+    },
+    {
+      "level": 86,
+      "text": "HISTORY IS FILLED WITH GREAT LEADERS WHO HAVE SHAPED THE WORLD AND INFLUENCED FUTURE GENERATIONS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 82,
+        "wordCount": 15,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 47.56,
+        "letterDistributionEntropy": 93.63,
+        "patternUniqueness": 73.33,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 74.12
+      }
+    },
+    {
+      "level": 87,
+      "text": "ART HAS THE POWER TO INSPIRE PEOPLE AND CONNECT CULTURES, MAKING IT AN IMPORTANT ASPECT OF LIFE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 78,
+        "wordCount": 17,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 56.41,
+        "letterDistributionEntropy": 92.66,
+        "patternUniqueness": 58.82,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 69.6
+      }
+    },
+    {
+      "level": 88,
+      "text": "PHILOSOPHY ASKS DEEP QUESTIONS ABOUT EXISTENCE, KNOWLEDGE, AND VALUES, HELPING US UNDERSTAND OUR PLACE IN LIFE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 92,
+        "wordCount": 16,
+        "uniqueLetters": 23,
+        "alphabetCoveragePercent": 88.46,
+        "commonLetterPercent": 46.74,
+        "letterDistributionEntropy": 90.83,
+        "patternUniqueness": 81.25,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 80.47
+      }
+    },
+    {
+      "level": 89,
+      "text": "THE EARTH ORBITS AROUND THE SUN ONCE EVERY THREE HUNDRED SIXTY-FIVE DAYS, CREATING OUR YEARLY CYCLE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 82,
+        "wordCount": 17,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 46.34,
+        "letterDistributionEntropy": 92.64,
+        "patternUniqueness": 52.94,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 68.44
+      }
+    },
+    {
+      "level": 90,
+      "text": "SCIENCE HELPS US UNDERSTAND THE UNIVERSE BY EXPLORING PHENOMENA AND FORMULATING HYPOTHESES THROUGH EXPERIMENTATION. EXPLORING",
+      "language": "en",
+      "metrics": {
+        "textLength": 110,
+        "wordCount": 15,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 49.09,
+        "letterDistributionEntropy": 92.73,
+        "patternUniqueness": 80.0,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 60,
+        "difficultyScore": 77.32
+      }
+    },
+    {
+      "level": 91,
+      "text": "THE SUN IS A STAR IN OUR SOLAR SYSTEM, AND IT PROVIDES LIGHT AND ENERGY TO EARTH'S LIVING BEINGS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 76,
+        "wordCount": 20,
+        "uniqueLetters": 18,
+        "alphabetCoveragePercent": 69.23,
+        "commonLetterPercent": 51.32,
+        "letterDistributionEntropy": 93.42,
+        "patternUniqueness": 45.0,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 60,
+        "difficultyScore": 64.52
+      }
+    },
+    {
+      "level": 92,
+      "text": "AN OCEAN IS FILLED WITH SALT WATER, AND IT COVERS MORE THAN SEVENTY PERCENT OF OUR PLANET'S SURFACE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 80,
+        "wordCount": 19,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 53.75,
+        "letterDistributionEntropy": 93.18,
+        "patternUniqueness": 52.63,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 62,
+        "difficultyScore": 68.78
+      }
+    },
+    {
+      "level": 93,
+      "text": "HISTORY TEACHES US VALUABLE LESSONS, AND IT HELPS US UNDERSTAND HOW PEOPLE HAVE INTERACTED THROUGH TIME.",
+      "language": "en",
+      "metrics": {
+        "textLength": 87,
+        "wordCount": 16,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 47.13,
+        "letterDistributionEntropy": 92.15,
+        "patternUniqueness": 75.0,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 68,
+        "difficultyScore": 75.87
+      }
+    },
+    {
+      "level": 94,
+      "text": "THE SCIENTIFIC METHOD IS AN IMPORTANT PROCESS FOR DISCOVERING NEW INFORMATION AND VERIFYING EXISTING THEORIES IN SCIENCE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 104,
+        "wordCount": 17,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 57.69,
+        "letterDistributionEntropy": 90.68,
+        "patternUniqueness": 70.59,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 71.4
+      }
+    },
+    {
+      "level": 95,
+      "text": "PHILOSOPHY EXPLORES FUNDAMENTAL QUESTIONS ABOUT EXISTENCE, KNOWLEDGE, VALUES, AND REASONING, AND IT INVITES DEEP REFLECTION ON LIFE.",
+      "language": "en",
+      "metrics": {
+        "textLength": 111,
+        "wordCount": 17,
+        "uniqueLetters": 24,
+        "alphabetCoveragePercent": 92.31,
+        "commonLetterPercent": 54.95,
+        "letterDistributionEntropy": 89.31,
+        "patternUniqueness": 88.24,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 79.05
+      }
+    },
+    {
+      "level": 96,
+      "text": "MANY ANIMALS HAVE EVOLVED UNIQUE ADAPTATIONS THAT HELP THEM SURVIVE IN VARIOUS ENVIRONMENTS AND UNDER DIFFERENT CONDITIONS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 106,
+        "wordCount": 17,
+        "uniqueLetters": 19,
+        "alphabetCoveragePercent": 73.08,
+        "commonLetterPercent": 55.66,
+        "letterDistributionEntropy": 92.71,
+        "patternUniqueness": 82.35,
+        "repeatedWordsFactor": 100,
+        "wordCountFactor": 66,
+        "difficultyScore": 74.47
+      }
+    },
+    {
+      "level": 97,
+      "text": "LITERATURE CAN REFLECT CULTURAL VALUES AND EXPERIENCES, AND IT OFTEN SERVES AS A WINDOW INTO DIFFERENT SOCIETIES.",
+      "language": "en",
+      "metrics": {
+        "textLength": 95,
+        "wordCount": 17,
+        "uniqueLetters": 17,
+        "alphabetCoveragePercent": 65.38,
+        "commonLetterPercent": 55.79,
+        "letterDistributionEntropy": 92.99,
+        "patternUniqueness": 82.35,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 66,
+        "difficultyScore": 70.18
+      }
+    },
+    {
+      "level": 98,
+      "text": "THE UNIVERSE IS A MYSTERIOUS PLACE FILLED WITH STARS, PLANETS, AND GALAXIES THAT CONTINUALLY INTRIGUE AND INSPIRE SCIENTISTS.",
+      "language": "en",
+      "metrics": {
+        "textLength": 105,
+        "wordCount": 18,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 53.33,
+        "letterDistributionEntropy": 89.28,
+        "patternUniqueness": 88.89,
+        "repeatedWordsFactor": 80,
+        "wordCountFactor": 64,
+        "difficultyScore": 75.93
+      }
+    },
+    {
+      "level": 99,
+      "text": "MATHEMATICS IS THE LANGUAGE OF SCIENCE, AND IT PROVIDES THE TOOLS NECESSARY FOR UNDERSTANDING THE WORLD AROUND US.",
+      "language": "en",
+      "metrics": {
+        "textLength": 95,
+        "wordCount": 18,
+        "uniqueLetters": 20,
+        "alphabetCoveragePercent": 76.92,
+        "commonLetterPercent": 50.53,
+        "letterDistributionEntropy": 93.0,
+        "patternUniqueness": 61.11,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 64,
+        "difficultyScore": 68.34
+      }
+    },
+    {
+      "level": 100,
+      "text": "ECOLOGY STUDIES THE INTERACTIONS BETWEEN ORGANISMS AND THEIR ENVIRONMENT, HIGHLIGHTING THE IMPORTANCE OF BIODIVERSITY AND SUSTAINABILITY.",
+      "language": "en",
+      "metrics": {
+        "textLength": 120,
+        "wordCount": 16,
+        "uniqueLetters": 21,
+        "alphabetCoveragePercent": 80.77,
+        "commonLetterPercent": 57.5,
+        "letterDistributionEntropy": 90.98,
+        "patternUniqueness": 81.25,
+        "repeatedWordsFactor": 60,
+        "wordCountFactor": 68,
+        "difficultyScore": 72.03
+      }
     }
   ]
+}
